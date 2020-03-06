@@ -12,7 +12,7 @@ Galaxy Rescuer is an arcade game made by a passionate team of Code Cadets from A
   - João Correia
   - Gabriel Sathler
 
-# How does it work
+# How does it work?
 
   - Simply move your spaceship around with the arrow keys 
   - Crash onto an asteroid and you loose
